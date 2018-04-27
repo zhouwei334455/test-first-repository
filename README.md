@@ -1,4 +1,4 @@
 # test-first-repository
 just test first one
 
-sub changes
+both sub and sub2 change
